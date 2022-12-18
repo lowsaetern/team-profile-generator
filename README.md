@@ -7,7 +7,6 @@
 - [Screenshots](#Screenshots)
 - [Link to video](#link)
 - [User Instructions](#User-Instructions)
-- [Contributors](#Contributors)
 - [Quesitons](#Questions)
 
 ---
